@@ -61,7 +61,8 @@ cache/
 *.swp
 *.swo
 *~
-
+/scripts/
+/tests/
 .DS_Store
 .DS_Store?
 ._*
